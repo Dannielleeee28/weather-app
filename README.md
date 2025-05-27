@@ -3,6 +3,10 @@
 A modern, responsive weather app built with HTML, CSS, and JavaScript.  
 It fetches real-time weather data using the OpenWeatherMap API.
 
+## 🌐 Live Website
+➡️ dannielleeee28.github.io/portfolio
+
+
 ## Features
 
 - Search weather by city name
